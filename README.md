@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashikamriyam
+- 👋 Hi, I’m @aashikamariyam
 - 👀 I’m interested in Software development, Artificial Intelligence and creative problem solving.
 - 🌱 I’m currently learning Java and have experience with Python, C and C++.
 - 💞️ I’m looking to collaborate on Software projects or research in AI and machine learning.
